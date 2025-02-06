@@ -29,7 +29,7 @@ $message = "I Love";
 
 // echo $result;   // also use - echo $message." - ".$language;
 
-//? 4) String Interpolation - Writing variables inside double or single quotes, php support SI. If we show write variable name then it will show us variable value otherwise treat as simple text.
+//? 4) String Interpolation - Writing variables inside double or single quotes, php support SI. If we write variable name then it will show us variable value otherwise treat as simple text.
 
 // echo "message - $language";
 // echo "<br>";
@@ -46,7 +46,7 @@ $age = 20;
 
 // echo "My name is $name. I am $age years old";
 
-//? 7) PHP is a loosely typed language means - In php we can directly assing value to variable without declaring their data types it is also called `Dynamically Typed Language`. Their data types changed based on the value during the runtime
+//? 7) PHP is a loosely typed language means - In php we can directly assing value to variable without declaring their data types it is also called `Dynamically Typed Language`. Their data types changed based on the value during the runtime of the script.
 //? So basically loosely typed language can change the data type of variable when script is running.
 
 //! Languages like Java, C++ do not use dynamically typed language, they are (Statically typed language)

@@ -26,8 +26,8 @@ global $language = "PHP"; ❌ (This is wrong)
 // display_message();
 // echo $language;
 
-//* 3) How to access Global variable inside the function? 
 
+//* 3) How to access Global variable inside the function? 
 
 // global $language; // We see how to access global variable.
 

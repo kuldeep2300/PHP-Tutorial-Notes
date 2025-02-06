@@ -31,6 +31,7 @@ function message() {
 
 
 //* 3) Can we call function before declaration? - Yes, we can.
+// In PHP, you can call a function before its declaration because of a concept called "hoisting," where the function declaration is essentially moved to the top of the script during the parsing phase, allowing the function to be recognized even if it appears later in the code when you try to call it; this means the interpreter knows about the function's existence even before it encounters the actual function definition. 
 
 add();
 function add() {

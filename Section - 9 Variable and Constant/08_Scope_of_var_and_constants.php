@@ -10,7 +10,7 @@ Local Variable: Variable defined inside function will die after the function has
 
 <?php
 
-//*  1) Local Variable - Function variable is only local to its function, it has no existence outside the function. After function complete function variable is also scope also end, we can't access it again.
+//*  1) Local Variable - Function variable is only local to its function, it has no existence outside the function. After function complete function variable scope is also end, we can't access it again.
 
 // $language = "PHP";
 
