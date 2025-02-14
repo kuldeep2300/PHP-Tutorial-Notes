@@ -12,7 +12,7 @@ $$variablename = " Greeting";
 
 // echo $variablename;
 // echo $$variablename;
-// echo $dynamicvar;
+// echo $dynamicvar; 
 
 //* We should avoid the use of this concept for better readability, this is rare concept in php, the simple meaning of this here can give dynamic value as a variable name, and we can also declare a variable with `$100` like this.
 

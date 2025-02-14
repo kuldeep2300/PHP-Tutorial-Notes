@@ -29,7 +29,7 @@
 //     3 => "Verma"
 // ];
 // print_r(array_keys($person));
-// print_r(array_keys($person)[1]);    // To find specific key, here it will first find all the keys then, in these keys I want the 1st index key name, and it will return it to me.
+// print_r(array_keys($person)[1]);    // To find specific key, here it will first find all the keys then, in these keys I want the 1st index key name, and it will return it to me `age`.
 
 //* 2) Only Values
 

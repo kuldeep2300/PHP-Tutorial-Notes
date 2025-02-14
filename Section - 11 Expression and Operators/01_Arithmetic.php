@@ -5,7 +5,7 @@ Addition +
 Subtraction - 
 Multiplication * 
 Division / 
-Modulus %
+Modulus % 
 Exponential **
 */
 

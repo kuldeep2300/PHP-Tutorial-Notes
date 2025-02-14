@@ -13,7 +13,7 @@ define('PI', 3.14);
 
 // echo 'PI';   // We should not wrap constant variable inside single or double quote it will treated as a text, meaning constant not support string interpolation.
 // echo "PI";
-
+ 
 // echo PI;
 
 define("GREETINGS", "Hello Students");

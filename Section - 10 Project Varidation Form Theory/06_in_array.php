@@ -9,3 +9,4 @@ if (in_array("banana", $fruit)) {
 } else {
     echo "Banana is not in the array";
 }
+ 

@@ -2,7 +2,7 @@
 /*
     = - Assignment Operator to assign values
     += - Add Assignment Operator
-    .=- String Assignment Operator
+    .= - String Assignment Operator
     -= - Subtract Assignment Operator
     *= - Multiple Assignment Operator
     /= - Divide Assignment Operator
@@ -10,7 +10,7 @@
 */
 
 
-// = - Assignment Operator to assign values
+// = - Assignment Operator to assign values 
 // $age=10;
 // $myname="Khanam";
 

@@ -6,7 +6,7 @@
 // $result = str_replace("Sample", "Example", $string);
 // $result = str_replace("Sample", "Example", $string, $count); // count, count how many time we replace Sample in $string.
 
-// echo $string . "<br>";
+// echo $string . "<br>"; 
 // echo $result . "<br>";
 // echo $count . "<br>";
 

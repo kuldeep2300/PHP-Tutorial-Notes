@@ -18,6 +18,7 @@
   <div class="table_container">
     <table class="table">
       <?php
+      // Accessing data from the database
       $read_query = "Select * from crud";
       $result = mysqli_query($con, $read_query);
       $i = 1;

@@ -1,0 +1,1 @@
+# After reading basics of arrays then learn about array methods for better practice. 

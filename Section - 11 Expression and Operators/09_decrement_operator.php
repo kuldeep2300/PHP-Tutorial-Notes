@@ -12,7 +12,7 @@
 
 
 // 1- Pre- Decrement --variable
-// $x=10;
+// $x=10; 
 // echo $x;
 // echo --$x;
 

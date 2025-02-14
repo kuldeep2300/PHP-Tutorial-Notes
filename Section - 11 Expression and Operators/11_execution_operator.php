@@ -11,3 +11,4 @@ echo $result;
 
 $result1 = shell_exec('mkdir data1');
 echo $result1;
+ 

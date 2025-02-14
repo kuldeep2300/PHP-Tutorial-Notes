@@ -9,4 +9,4 @@ $myName = "kuLdEEp vErMa";
 // It will make complete string small, so after completely converting into small then we apply ucfirst() or ucwords() function to make only first letter into capital.
 
 echo ucfirst(strtolower($myName))."<br>";
-echo ucwords(strtolower($myName));
+echo ucwords(strtolower($myName)); 

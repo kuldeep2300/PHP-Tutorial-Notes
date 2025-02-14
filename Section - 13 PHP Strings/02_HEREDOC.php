@@ -1,7 +1,7 @@
 <?php
 
 /* We use heredoc when we are dealing with large amount of data, and storing large string in the one variable. In this type of large string everything should be formatted like we write. */
-
+ 
 $myname = "Kuldeep";
 $age = 21;
 

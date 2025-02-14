@@ -11,7 +11,7 @@
 // $count+=1;
 
 // 1- Pre- increment ++varaible
-// $a=10;
+// $a=10; 
 // echo $a;
 // echo ++$a;
 

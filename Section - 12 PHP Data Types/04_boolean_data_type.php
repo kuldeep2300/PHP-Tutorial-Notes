@@ -1,6 +1,6 @@
 <?php
 // 0, "" ,null ,"0"-false
-// 1 , -1, 9,100,"khanam" -true
+// 1 , -1, 9,100,"khanam", {} -true
 // true false TRUE FALSE    //? In boolean true print 1 and false print nothing. 
 
 // $flag1=false;

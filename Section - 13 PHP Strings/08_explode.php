@@ -1,7 +1,7 @@
 <?php
 
-//?  Explode function - used to convert string into array. Important for interviews.
-/* It is used when if you are having CSV (comma separated data), meaning it will convert our string into separated comma in the array form. */
+//? Explode function - used to convert string into array. Important for interviews.
+/* It is used when if you are having CSV (comma separated data), meaning it will convert our string into separated comma in the array form. */ 
 
 /* Delimiter - comman, - , /, space or anything by which we want to separate data.
    string - passing our string
@@ -9,7 +9,7 @@
 */
 //? Syntax :  explode(string $delimiter, string $string, int $limit = PHP_INT_MAX);
 
-// $fruit = "apple, mango, grapes, banana";     // data of csv files
+// $fruit = "apple, mango, grapes, banana";   // data of csv files
 $fruit = "apple| mango| grapes, banana";     // data of csv files
 // echo $fruit;
 // var_dump($fruit);

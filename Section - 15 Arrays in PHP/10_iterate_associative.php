@@ -15,7 +15,7 @@ echo "</pre>";
 // echo $person['age'] . "<br>";
 // echo $person['city'] . "<br>";
 
-//* Using foreach - But it will print only only we want in key pair format
+//* Using foreach - But it will print only values, but we want only in key pair format
 // foreach($person as $values) {
 //     echo $values."<br>";
 // }

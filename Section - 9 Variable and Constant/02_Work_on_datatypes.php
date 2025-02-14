@@ -5,7 +5,7 @@ We can change a variable value as many as number of times there is no limit in p
 
 <?php
 //? 1) Can variable change its value - 
-$name = "Kuldeep";
+$name = "Kuldeep"; 
 // echo $name;
 
 // $name = "Sneha";

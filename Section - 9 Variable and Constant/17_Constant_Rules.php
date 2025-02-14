@@ -14,7 +14,7 @@ echo MAX_VALUE;
 
 3) Constant names are case-sensitive.
 
-define('PI', 3.14);
+define('PI', 3.14); 
 echo pi;    // Give error undefined constant pi;
 
 4) Give always 2 arguement even if constant value is empty ("") but write at least 2 arguments otherwise it will give error.

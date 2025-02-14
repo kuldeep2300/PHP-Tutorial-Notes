@@ -3,10 +3,10 @@ A global variable is defined outside any function and is accessible throughout t
 
 Syntax : global $variablename;
 
-//! NOTE - We can't simply define and assing global variable directly.
+//! NOTE - We can't simply define and assigning global variable value directly.
 global $language = "PHP"; ❌ (This is wrong)
 -->
-
+ 
 <?php
 
 //* 1) Define a global variable? 
@@ -17,7 +17,7 @@ global $language = "PHP"; ❌ (This is wrong)
 //* 2) Global vs Local Variable
 
 // function display_message() {
-//?     // Even after defining global variable we can't access it inside the function, coz function have their own local scope, and local scope variable end after function execution.
+//?  Even after defining global variable we can't access it inside the function, coz function have their own local scope, and  local scope variable end after function execution.
 //     $language = "Backend";
 //     echo $language;
 //     echo "<br>";

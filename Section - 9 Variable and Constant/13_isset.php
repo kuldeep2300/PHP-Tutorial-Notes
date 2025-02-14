@@ -12,7 +12,7 @@ if(isset($age)) {
     echo "$age Variable is set.";
 } else {
     echo "Variable is not set.";
-}
+} 
 
 $fruit = "mango";
 $ref = $fruit;  // By passing a reference

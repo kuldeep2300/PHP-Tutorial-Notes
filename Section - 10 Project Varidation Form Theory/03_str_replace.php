@@ -4,7 +4,7 @@ $string = "Hello World";
 // Syntax of replace string : str_replace(search, replace, subject, count); // Count is optional how many time replace
 
 // echo str_replace("World", "PHP", $string);
-
+ 
 // For array
 
 $data = "Apple, Mango, Strawberry";

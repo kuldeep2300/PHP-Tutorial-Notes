@@ -13,7 +13,7 @@
 
 // $FRUIT = "APPLE ";
 // echo $fruit;
-
+ 
 // define('FRUIT', 'mango');
 // echo FRUIT;
 

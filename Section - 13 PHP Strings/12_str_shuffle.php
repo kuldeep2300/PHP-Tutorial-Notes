@@ -4,4 +4,4 @@
 
 $result = "string";
 $data = str_shuffle($result); 
-echo $data;
+echo $data; 

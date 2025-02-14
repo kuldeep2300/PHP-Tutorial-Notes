@@ -17,7 +17,7 @@ echo $sanitize."<br>";
 // if(filter_var($email, FILTER_VALIDATE_EMAIL)) { // This filter type check only structure like [local]@gmail.com, it not check any special character $, # and give us email valid that's why we use another validation for email. This is only apply for brakcet and underscores.
 //     echo "Email is valid";
 // } else {
-//     echo "Email is not valid";
+//     echo "Email is not valid"; 
 // }
 
 ?>

@@ -11,7 +11,7 @@ These superglobal variables are:
 • $_FILES
 • $_COOKIE
 • $_SESSION
-• $_REQUEST
+• $_REQUEST 
 • $_ENV
 
 -->

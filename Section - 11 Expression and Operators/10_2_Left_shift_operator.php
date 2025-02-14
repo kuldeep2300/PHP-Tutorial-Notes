@@ -9,3 +9,4 @@
 // $result=$x<<$shift;
 // echo $result;
 
+ 

@@ -21,7 +21,6 @@ if (isset($_POST['submit'])) {
   $username = ucfirst(strtolower($username));
   $place = ucfirst(strtolower($place));
 
-
   if (empty($username) || empty($email) || empty($phone) || empty($place)) { // Empty() function returns true if variable field is empty otherwise false when field is not empty
     $error_messages[] = $fill_all_fields;
   } else {
@@ -62,7 +61,7 @@ if (isset($_POST['submit'])) {
         // alert('Username or Email already exist');
         // </script>";
       } else {
-        // Validating and sanitiging the values
+        // Validating and sanitizing the values
         $username = mysqli_real_escape_string($con, $username);
         $email = mysqli_real_escape_string($con, $email);
         $place = mysqli_real_escape_string($con, $place);

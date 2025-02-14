@@ -14,7 +14,7 @@
 // $value = 56;
 // echo DYNAMIC_CONSTANT;
 
-// $LANGUAGE='JAVASCRIPT';
+// $LANGUAGE='JAVASCRIPT'; 
 // echo $LANGUAGE;
 // define('_LANGUAGE','PHP');
 // echo _LANGUAGE;

@@ -7,7 +7,7 @@ $stringData = "The strpos function in PHP is used to find the position of the fi
 
 // $stringData = "Kuldeep position";
 
-// $position = "position";
+// $position = "position"; 
 // $position = "POSITION"; // Case - sensitive , Output - Position not found, to make it case - insensitive use `stripos function which will make it case insensitive and search and give result`
 
 $position = "The";  // Here the will return 0 (and there are many way which are not correct and not print that position is found.)

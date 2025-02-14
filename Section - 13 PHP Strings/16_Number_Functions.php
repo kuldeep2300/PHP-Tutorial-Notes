@@ -13,7 +13,7 @@
 // echo is_numeric("12.89") ? "It's a number" : "It's not a number";; // Output : It's a number
 
 //? 2) intval() : Checking only integer value directly return int value as it is.
-
+ 
 // echo intval(12);         // Output : 12 
 // echo intval('12sd');     // Output : 12 (converting string into integer and return only int value)
 // echo intval('20.09');       // Output : 20

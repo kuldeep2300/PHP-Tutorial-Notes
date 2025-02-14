@@ -1,4 +1,4 @@
-<!-- Variable Typing : 
+<!-- Variable Typing :  
 It is a concept of coverting one data type to another data type. 
 As we know php is dynamically typed language inwhich data type decided during the run time of script.
 
@@ -20,7 +20,7 @@ In this tutorial we manily focus on integer and string only.
 // $result = $num1 * $num2;
 // var_dump($result);
 
-//* But when when multiply string into integer then it will give us error
+//* But when multiply string into integer then it will give us error
 // $num1 = "apple";
 // var_dump($num1);
 // $num2 = 20;

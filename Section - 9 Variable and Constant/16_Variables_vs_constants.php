@@ -15,7 +15,7 @@ define('LANGUAGE','PHP');
 
 
 //* ➡️2. Local or global, depends on context.
-// function variableFunction(){
+// function variableFunction(){ 
 //     $myname="Saniya";
 //     echo $myname;
 // }

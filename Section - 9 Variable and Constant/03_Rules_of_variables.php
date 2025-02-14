@@ -3,7 +3,7 @@
 2. Variable names must start with a dollar sign ($) followed by a letter or an underscore.
 3. After the initial dollar sign, variable names can contain letters, numbers, and underscores, don’t use any special characters.
 4. Variable can only contains a-z, A-Z. 0-9 and _
-5. No space in the variable names .
+5. No space in the variable names . 
 6. Variable names cannot start with a number.
 7. PHP has a set of reserved words that cannot be used as variable names because they are part of the language's syntax. Examples include echo, if, else, while, and others.
 8. PHP is a dynamically-typed language, meaning that you do not need to declare the data type of a variable explicitly. The data type is determined based on the assigned value.

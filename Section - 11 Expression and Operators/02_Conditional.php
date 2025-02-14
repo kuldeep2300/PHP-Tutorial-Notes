@@ -6,7 +6,7 @@
 // echo (true) ? "True Value"."<br>" : "False Value"."<br>";
 // echo (false) ? "True Value" : "False Value"; 
 
-$flag1 = (true) ? "True Value" . "<br>" : "False Value" . "<br>";
+$flag1 = (true) ? "True Value" . "<br>" : "False Value" . "<br>"; 
 // echo $flag1;
 
 $age = 18;
